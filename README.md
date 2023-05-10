@@ -28,79 +28,31 @@ Hoe bedient deze persoon een computer?
 
 - [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
 
-### Leerdoelen
+Who?
+Petra, een blinde beleidsmedewerker bij Cliëntenbelang Amsterdam, eigenaar van een vertaalbureau en vrijwilliger bij de luisterlijn. Petra houdt van sport en heeft een uitgebreide garderobe die ze graag op de juiste momenten wil kunnen gebruiken.
 
-- _Leren hoe je (design) principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
+What?
+Petra heeft een systeem nodig dat haar helpt bij het kiezen van passende kleding voor verschillende gelegenheden. Het systeem moet haar in staat stellen de juiste kleuren en stijlen te kiezen zonder visuele input.
 
-[Rubric](#rubric)
+How?
+We ontwikkelen een virtuele kledingkast-app. Petra kan foto's van haar kleding in de app uploaden. De app bevat een functie waarmee Petra de foto's kan delen met vrienden of familieleden die haar kunnen helpen bij het kiezen van de juiste outfit. De app gebruikt ook AI-technologie om de kleur en stijl van de kleding te identificeren en beschrijvingen te genereren die door Petra's screenreader kunnen worden gelezen. Deze beschrijvingen zijn gedetailleerd genoeg om Petra te helpen bij het kiezen van passende kleding voor elke gelegenheid.
 
-## Planning & programma
+Why?
+Petra wil zich zelfverzekerd en passend gekleed voelen voor elke gelegenheid, ongeacht haar visuele beperking. Deze oplossing stelt haar in staat om onafhankelijk haar outfits te kiezen, terwijl ze de mogelijkheid behoudt om feedback te vragen aan anderen wanneer ze dat nodig vindt.
 
-| Planning  | Woensdag  |  Donderdag | Vrijdag  |
-|---|---|---|---|
-| [Week 1](#week-1---kickoff-en-aannames-testen)  | Intro & College Exclusive design | College + Testen | Feedbackgesprekken |
-| [Week 2](#week-2---prototypen-en-testen)  | College + Testen | ~~Koningsdag~~  | ~~Vrij~~  | 
-| ~~Meivakantie~~ |   |  |   |
-| [Week 3](#week-3---prototypen-presenteren-en-reflecteren)  | College  |  Onderzoeken presenteren | Beoordelingsgesprekken  |
+Scenario:
 
+Petra staat op het punt om naar een zakelijke bijeenkomst te gaan. Ze opent de virtuele kledingkast-app op haar smartphone en selecteert de optie "Zakelijke kleding". De screenreader leest de beschrijvingen van verschillende outfits voor. Petra kiest een outfit die haar aanspreekt en deelt de foto met een vriendin om haar keuze te bevestigen. Met een positieve reactie van haar vriendin en de zekerheid dat haar outfit passend is, is Petra klaar om naar haar zakelijke bijeenkomst te gaan.
 
-## Week 1 - Intro en aannames testen 
+## Doel project
 
-Deze week krijg je een college over _Exclusive Design Principles_. Deze Principles ga je toepassen in de opdracht. Op woensdag en donderdag gaan we kennis maken met de echte mensen voor wie we gaan ontwerpen. Zorg dat je al een kleine interactieve demo maakt om te testen.
+De applicatie die ik voor Petra heb ontwikkeld, is een kleinschalige, gebruiksvriendelijke tool die haar helpt bij het kiezen van kleding voor verschillende gelegenheden. De app is ontworpen met een eenvoudige, toegankelijke interface waar Petra per categorie kleding kan selecteren en uploaden. De categorieën kunnen variëren van "casual" en "zakelijk" tot "feestelijk" en "geschikt voor een begrafenis".
 
-### Woensdag 19 april
+Om het proces van het maken van foto's van de kleding te vergemakkelijken, heb ik een oplossing bedacht waarbij Petra de kleding op een hanger kan hangen, hetzij in haar kast of aan de muur. Op deze manier kan ze op de tast de kleding vinden en vervolgens een foto maken.
 
-Woensdag is de eerste les van het vak Human Centered Design. Je krijgt een intro college over het vak en Eric gaat vertellen over _Exclusive Design_.
+Ik begrijp dat dit proces uitdagend kan zijn voor Petra, daarom heb ik een alternatieve oplossing bedacht. Ik stel voor een houder voor de smartphone te 3D-printen die aan de kledinghanger kan worden bevestigd. Hierdoor kan Petra haar telefoon op de houder plaatsen en een foto maken, vergelijkbaar met hoe ze momenteel foto's maakt van documenten voor de belasting met haar fototent.
 
-Daarna prototypen.
-
-### Donderdag 20 april
-
-Donderdag krijg je een college over testen. Ook gaan we deze les het artikel [Exclusive Design van Vasilis van Gemert](https://exclusive-design.vasilis.nl/flipping-things/) bespreken.
-
-Daarna prototypen en testen.
-
-### Vrijdag 21 april
-
-Feedbackgesprekken in groepen.
-
-
-## Week 2 - Prototypen en testen 
-
-Deze week heb je het tweede gesprek met je testpersoon. Wat ga je testen? Wat wil je weten? Donderdag is het koningsdag, dan is er geen les.
-
-### Woensdag 26 april
-
-Donderdag krijg je een college over testen. 
-Lees voor deze les de artikelen:  
-[10 Usability Lessons van Steve Krug](https://www.uxbooth.com/articles/10-usability-lessons-from-steve-krugs-dont-make-me-think/) 
-en [Design for Both Needs and Wants: Applying Anderson’s User Experience Hierarchy of Needs](https://thevisualcommunicationguy.com/2018/11/08/design-for-both-needs-and-wants-applying-andersons-user-experience-hierarchy-of-needs/) lezen.
-
-'s Middags ga je voor de tweede keer testen.
-
-
-
-## Week 3 - Prototypen, presenteren en reflecteren
-
-In week 3 gaan we alle onderzoeken presenteren en publiceren. Eind van de week zijn de beoordelingsgesprekken. 
-
-### Woensdag 10 mei
-
-Woensdag beginnen we met een college. 
-Voor deze les moet je dit artikel lezen: [How User Scenarios Help To Improve Your UX van Sabina Idler](https://usabilla.com/blog/how-user-scenarios-help-to-improve-your-ux/) 
-
-Daarna verder werken aan je prototype.
-
-### Donderdag 11 mei
-
-Donderdag gaan we de onderzoeken presenteren en gaan we een site maken om al jullie onderzoeksbevindingen te publiceren. 
-
-
-### Vrijdag 12 mei
-
-Op vrijdag zijn de beoordelingsgesprekken. Je hebt dan een gesprek waarin we je vorderingen en bevindingen bespreekt. We verwachten dat je op Github je tests en iteraties hebt beschreven. Belangrijk is dat je reflecteert op de leerdoelen van het vak. 
+Deze aanpassingen zijn gebaseerd op mijn gesprekken met Petra en mijn inzicht in haar behoeften en uitdagingen. Het doel is om Petra een grotere mate van onafhankelijkheid en zelfvertrouwen te geven bij het kiezen van haar kleding.
 
 
 
@@ -118,22 +70,3 @@ De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen
 
 
 
-
-
-<!-- Add a link to your live demo in Github Pages 🌐-->
-
-<!-- ☝️ replace this description with a description of your own work -->
-
-<!-- replace the code in the /docs folder with your own, so you can showcase your work with GitHub Pages 🌍 -->
-
-<!-- Add a nice poster image here at the end of the week, showing off your shiny frontend 📸 -->
-
-<!-- Maybe a table of contents here? 📚 -->
-
-<!-- How about a section that describes how to install this project? 🤓 -->
-
-<!-- ...but how does one use this project? What are its features 🤔 -->
-
-<!-- Maybe a checklist of done stuff and stuff still on your wishlist? ✅ -->
-
-<!-- How about a license here? 📜 (or is it a licence?) 🤷 -->
