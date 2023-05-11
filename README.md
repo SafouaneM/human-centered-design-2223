@@ -39,6 +39,7 @@ https://github.com/SafouaneM/clothing-closet-for-school
 
 
 <img width="1439" alt="Screenshot 2023-05-12 at 01 08 47" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/eb9de517-293c-4ebe-976b-74b2b2e19ad8">
+
 ![ezgif com-video-to-gif (1)](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/9a67f794-6b29-41bb-bfda-a39a3f1d68e4)
 
 
