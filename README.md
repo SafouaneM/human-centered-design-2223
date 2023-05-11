@@ -37,10 +37,10 @@ Disclaimer: Dit project is nog in progress, het AI gedeelte en de 3D printed kle
 Een beetje onhandig maar hier staat de code, dit omdat ik onwetend in de verkeerde repo zat te werken. Als dit naar deze repository gebracht moet worden kan dat altijd nog gedaan worden.
 https://github.com/SafouaneM/clothing-closet-for-school
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/6a8d3e9c-ff3d-47ac-86fa-3ddef041f90c" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FAIUvYLPhjs?controls=0" frameborder="0" allowfullscreen></iframe>
 
 
 <img width="1439" alt="Screenshot 2023-05-12 at 01 08 47" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/eb9de517-293c-4ebe-976b-74b2b2e19ad8">
