@@ -29,7 +29,12 @@ Hoe bedient deze persoon een computer?
 - [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
 
 
-#Persoonlijke virtuele kleding kast voor Petra
+```js
+Disclaimer: Dit project is nog in progress, het AI gedeelte en de 3D printed kledinghanger zijn nog niet geimplementeerd maar worden wel vaker opgenoemd in het onderzoek dit om de lezer en de opdrachtgever op de hoogte te stellen van wat de stand van zaken zijn en dat er nagedacht is over oplossingen na de 2 wekelijkse testen.
+```
+
+
+# Persoonlijke virtuele kleding kast voor Petra
 
 Who?
 Petra, een blinde beleidsmedewerker bij Cliëntenbelang Amsterdam, eigenaar van een vertaalbureau en vrijwilliger bij de luisterlijn. Petra houdt van sport en heeft een uitgebreide garderobe die ze graag op de juiste momenten wil kunnen gebruiken.
@@ -90,8 +95,35 @@ Om het proces van het maken van foto's te vergemakkelijken, kan Petra de kleding
 De combinatie van de virtuele kledingkast-app en de 3D-geprinte houder biedt Petra een gebruiksvriendelijke en intuïtieve manier om haar kledingkeuzes te maken. Door de gedetailleerde beschrijvingen en het gebruik van AI-technologie kan Petra vertrouwen op accurate informatie bij het selecteren van passende kleding voor verschillende gelegenheden.
  
 
-## De tests nog een keer uitgelegd aan de hand van foto's
+## De tests nog een keer uitgelegd aan de hand van video's
 
+
+
+Filmpje van prototype nummer 1: https://streamable.com/ensskc <-- Dit protype kwam uit na het eerste gesprek met Petra, ik probeerde haar de meest recente versie te laten gebruiken. 
+
+
+Opmerkingen van petra na prototype 1:
+
+Petra heeft waardevolle feedback gegeven over het eerste prototype van de virtuele kledingkast-app. Ze was enthousiast over het idee dat er daadwerkelijk een systeem is dat ze kan gebruiken om haar kledingkeuzes te maken. Ze waardeerde het feit dat de oplossing specifiek was afgestemd op haar behoeften als blinde gebruiker.
+
+Echter, Petra gaf aan dat ze het nog lastig vond om zelf foto's te uploaden. Ze vroeg zich af hoe ze de juiste foto kan maken in plaats van per ongeluk een foto van de muur te maken. Het was voor haar ook een uitdaging om foto's te maken als ze niet eens weet welk kledingstuk ze vasthoudt. Ze gaf aan dat ze een shirt kan ophangen, maar dat ze niet weet welk specifiek shirt het is.
+
+Om deze uitdagingen aan te pakken, heb ik al voorgesteld om de camera in de app te laten werken met AI-technologie, zodat de kledingstukken automatisch herkend kunnen worden. Hierdoor kan Petra een foto maken zonder zich zorgen te hoeven maken over het selecteren van het juiste kledingstuk. Daarnaast heb ik ook het idee van de 3D-geprinte houder voorgesteld, zodat ze het kledingstuk op een stabiele manier kan positioneren voor het maken van de foto, waardoor het proces voor haar eenvoudiger wordt.
+
+Door deze aanpassingen kunnen we tegemoetkomen aan de bezorgdheid van Petra en haar helpen om effectiever gebruik te maken van de app. Het doel is om een intuïtieve en betrouwbare oplossing te bieden, zodat Petra zich zelfverzekerd en onafhankelijk kan kleden, zonder afhankelijk te zijn van visuele input.
+
+## Design Principles
+In dit project hebben we de Exclusive Design Principles toegepast om een inclusieve en nuttige oplossing te creëren. Hieronder leg ik uit hoe we elk van deze principes hebben toegepast.
+
+### Study Situation: We hebben de specifieke situatie en behoeften van Petra grondig bestudeerd om een oplossing te ontwerpen die nauw aansluit bij haar dagelijkse leven. We hebben 2 interviews afgenomen en haar leven en ervaringen bestudeerd. Dit gaf ons inzicht in haar unieke behoeften en uitdagingen met betrekking tot het kiezen van kleding.
+
+### Prioritise Identity: Petra's identiteit en persoonlijke voorkeuren waren een belangrijke overweging in ons ontwerpproces. We hebben niet alleen rekening gehouden met haar visuele beperking, maar ook met haar persoonlijke stijl, haar liefde voor sport, en haar verschillende rollen als beleidsmedewerker, eigenaar van een vertaalbureau, en vrijwilliger bij de luisterlijn. We hebben ervoor gezorgd dat de app haar in staat stelt om haar outfits te kiezen op basis van haar persoonlijke stijl en de gelegenheden waarvoor ze zich kleedt.
+
+### Ignore Conventions: We hebben conventionele designprincipes terzijde geschoven om een tool te creëren die echt nuttig is voor Petra. In plaats van te vertrouwen op visuele ontwerpelementen, hebben we een oplossing ontworpen die gebruikmaakt van AI-technologie om gedetailleerde beschrijvingen te genereren die Petra's screenreader kan lezen. We hebben ook een 3D-geprinte houder voorgesteld om het proces van het maken van foto's van de kleding te vergemakkelijken.
+
+### Add Nonsense: Hoewel dit project zich richt op het oplossen van een serieus probleem, hebben we ook ruimte gelaten voor plezier en creativiteit. Petra kan bijvoorbeeld de foto's van haar outfits delen met vrienden en familieleden, wat een element van sociale interactie en plezier toevoegt aan de ervaring. Bovendien kan de 3D-geprinte houder, hoewel functioneel, ook worden ontworpen in een reeks leuke en creatieve vormen, wat een extra dimensie van plezier en eigenheid aan de ervaring toevoegt.
+
+Het toepassen van deze Exclusive Design Principles heeft ons geholpen om een oplossing te ontwerpen die niet alleen voldoet aan Petra's functionele behoeften, maar ook aansluit bij haar identiteit en haar leven verrijkt met een vleugje plezier en creativiteit.
 
 
 
