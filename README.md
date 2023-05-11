@@ -37,18 +37,22 @@ Disclaimer: Dit project is nog in progress, het AI gedeelte en de 3D printed kle
 # Persoonlijke virtuele kleding kast voor Petra
 
 Who?
+---
 Petra, een blinde beleidsmedewerker bij Cliëntenbelang Amsterdam, eigenaar van een vertaalbureau en vrijwilliger bij de luisterlijn. Petra houdt van sport en heeft een uitgebreide garderobe die ze graag op de juiste momenten wil kunnen gebruiken.
 
 What?
+---
 Petra heeft een systeem nodig dat haar helpt bij het kiezen van passende kleding voor verschillende gelegenheden. Het systeem moet haar in staat stellen de juiste kleuren en stijlen te kiezen zonder visuele input.
 
 How?
+---
 We ontwikkelen een virtuele kledingkast-app. Petra kan foto's van haar kleding in de app uploaden. De app bevat een functie waarmee Petra de foto's kan delen met vrienden of familieleden die haar kunnen helpen bij het kiezen van de juiste outfit. De app gebruikt ook AI-technologie om de kleur en stijl van de kleding te identificeren en beschrijvingen te genereren die door Petra's screenreader kunnen worden gelezen. Deze beschrijvingen zijn gedetailleerd genoeg om Petra te helpen bij het kiezen van passende kleding voor elke gelegenheid.
 
 Why?
+---
 Petra wil zich zelfverzekerd en passend gekleed voelen voor elke gelegenheid, ongeacht haar visuele beperking. Deze oplossing stelt haar in staat om onafhankelijk haar outfits te kiezen, terwijl ze de mogelijkheid behoudt om feedback te vragen aan anderen wanneer ze dat nodig vindt.
 
-Scenario:
+### Scenario:
 
 Petra staat op het punt om naar een zakelijke bijeenkomst te gaan. Ze opent de virtuele kledingkast-app op haar smartphone en selecteert de optie "Zakelijke kleding". De screenreader leest de beschrijvingen van verschillende outfits voor. Petra kiest een outfit die haar aanspreekt en deelt de foto met een vriendin om haar keuze te bevestigen. Met een positieve reactie van haar vriendin en de zekerheid dat haar outfit passend is, is Petra klaar om naar haar zakelijke bijeenkomst te gaan.
 
@@ -98,11 +102,10 @@ De combinatie van de virtuele kledingkast-app en de 3D-geprinte houder biedt Pet
 ## De tests nog een keer uitgelegd aan de hand van video's
 
 
-
 Filmpje van prototype nummer 1: https://streamable.com/ensskc <-- Dit protype kwam uit na het eerste gesprek met Petra, ik probeerde haar de meest recente versie te laten gebruiken. 
 
 
-Opmerkingen van petra na prototype 1:
+Opmerkingen van Petra na prototype 1:
 
 Petra heeft waardevolle feedback gegeven over het eerste prototype van de virtuele kledingkast-app. Ze was enthousiast over het idee dat er daadwerkelijk een systeem is dat ze kan gebruiken om haar kledingkeuzes te maken. Ze waardeerde het feit dat de oplossing specifiek was afgestemd op haar behoeften als blinde gebruiker.
 
@@ -113,6 +116,7 @@ Om deze uitdagingen aan te pakken, heb ik al voorgesteld om de camera in de app 
 Door deze aanpassingen kunnen we tegemoetkomen aan de bezorgdheid van Petra en haar helpen om effectiever gebruik te maken van de app. Het doel is om een intuïtieve en betrouwbare oplossing te bieden, zodat Petra zich zelfverzekerd en onafhankelijk kan kleden, zonder afhankelijk te zijn van visuele input.
 
 ## Design Principles
+
 In dit project hebben we de Exclusive Design Principles toegepast om een inclusieve en nuttige oplossing te creëren. Hieronder leg ik uit hoe we elk van deze principes hebben toegepast.
 
 ### Study Situation: We hebben de specifieke situatie en behoeften van Petra grondig bestudeerd om een oplossing te ontwerpen die nauw aansluit bij haar dagelijkse leven. We hebben 2 interviews afgenomen en haar leven en ervaringen bestudeerd. Dit gaf ons inzicht in haar unieke behoeften en uitdagingen met betrekking tot het kiezen van kleding.
@@ -124,7 +128,6 @@ In dit project hebben we de Exclusive Design Principles toegepast om een inclusi
 ### Add Nonsense: Hoewel dit project zich richt op het oplossen van een serieus probleem, hebben we ook ruimte gelaten voor plezier en creativiteit. Petra kan bijvoorbeeld de foto's van haar outfits delen met vrienden en familieleden, wat een element van sociale interactie en plezier toevoegt aan de ervaring. Bovendien kan de 3D-geprinte houder, hoewel functioneel, ook worden ontworpen in een reeks leuke en creatieve vormen, wat een extra dimensie van plezier en eigenheid aan de ervaring toevoegt.
 
 Het toepassen van deze Exclusive Design Principles heeft ons geholpen om een oplossing te ontwerpen die niet alleen voldoet aan Petra's functionele behoeften, maar ook aansluit bij haar identiteit en haar leven verrijkt met een vleugje plezier en creativiteit.
-
 
 
 ## Rubric
