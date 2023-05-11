@@ -129,13 +129,21 @@ Door deze aanpassingen kunnen we tegemoetkomen aan de bezorgdheid van Petra en h
 
 In dit project hebben we de Exclusive Design Principles toegepast om een inclusieve en nuttige oplossing te creëren. Hieronder leg ik uit hoe we elk van deze principes hebben toegepast.
 
-### Study Situation: We hebben de specifieke situatie en behoeften van Petra grondig bestudeerd om een oplossing te ontwerpen die nauw aansluit bij haar dagelijkse leven. We hebben 2 interviews afgenomen en haar leven en ervaringen bestudeerd. Dit gaf ons inzicht in haar unieke behoeften en uitdagingen met betrekking tot het kiezen van kleding.
+### Study Situation: 
 
-### Prioritise Identity: Petra's identiteit en persoonlijke voorkeuren waren een belangrijke overweging in ons ontwerpproces. We hebben niet alleen rekening gehouden met haar visuele beperking, maar ook met haar persoonlijke stijl, haar liefde voor sport, en haar verschillende rollen als beleidsmedewerker, eigenaar van een vertaalbureau, en vrijwilliger bij de luisterlijn. We hebben ervoor gezorgd dat de app haar in staat stelt om haar outfits te kiezen op basis van haar persoonlijke stijl en de gelegenheden waarvoor ze zich kleedt.
+We hebben de specifieke situatie en behoeften van Petra grondig bestudeerd om een oplossing te ontwerpen die nauw aansluit bij haar dagelijkse leven. We hebben 2 interviews afgenomen en haar leven en ervaringen bestudeerd. Dit gaf ons inzicht in haar unieke behoeften en uitdagingen met betrekking tot het kiezen van kleding.
 
-### Ignore Conventions: We hebben conventionele designprincipes terzijde geschoven om een tool te creëren die echt nuttig is voor Petra. In plaats van te vertrouwen op visuele ontwerpelementen, hebben we een oplossing ontworpen die gebruikmaakt van AI-technologie om gedetailleerde beschrijvingen te genereren die Petra's screenreader kan lezen. We hebben ook een 3D-geprinte houder voorgesteld om het proces van het maken van foto's van de kleding te vergemakkelijken.
+### Prioritise Identity: 
 
-### Add Nonsense: Hoewel dit project zich richt op het oplossen van een serieus probleem, hebben we ook ruimte gelaten voor plezier en creativiteit. Petra kan bijvoorbeeld de foto's van haar outfits delen met vrienden en familieleden, wat een element van sociale interactie en plezier toevoegt aan de ervaring. Bovendien kan de 3D-geprinte houder, hoewel functioneel, ook worden ontworpen in een reeks leuke en creatieve vormen, wat een extra dimensie van plezier en eigenheid aan de ervaring toevoegt.
+Petra's identiteit en persoonlijke voorkeuren waren een belangrijke overweging in ons ontwerpproces. We hebben niet alleen rekening gehouden met haar visuele beperking, maar ook met haar persoonlijke stijl, haar liefde voor sport, en haar verschillende rollen als beleidsmedewerker, eigenaar van een vertaalbureau, en vrijwilliger bij de luisterlijn. We hebben ervoor gezorgd dat de app haar in staat stelt om haar outfits te kiezen op basis van haar persoonlijke stijl en de gelegenheden waarvoor ze zich kleedt.
+
+### Ignore Conventions: 
+
+We hebben conventionele designprincipes terzijde geschoven om een tool te creëren die echt nuttig is voor Petra. In plaats van te vertrouwen op visuele ontwerpelementen, hebben we een oplossing ontworpen die gebruikmaakt van AI-technologie om gedetailleerde beschrijvingen te genereren die Petra's screenreader kan lezen. We hebben ook een 3D-geprinte houder voorgesteld om het proces van het maken van foto's van de kleding te vergemakkelijken.
+
+### Add Nonsense: 
+
+Hoewel dit project zich richt op het oplossen van een serieus probleem, hebben we ook ruimte gelaten voor plezier en creativiteit. Petra kan bijvoorbeeld de foto's van haar outfits delen met vrienden en familieleden, wat een element van sociale interactie en plezier toevoegt aan de ervaring. Bovendien kan de 3D-geprinte houder, hoewel functioneel, ook worden ontworpen in een reeks leuke en creatieve vormen, wat een extra dimensie van plezier en eigenheid aan de ervaring toevoegt.
 
 Het toepassen van deze Exclusive Design Principles heeft ons geholpen om een oplossing te ontwerpen die niet alleen voldoet aan Petra's functionele behoeften, maar ook aansluit bij haar identiteit en haar leven verrijkt met een vleugje plezier en creativiteit.
 
