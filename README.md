@@ -33,6 +33,10 @@ Hoe bedient deze persoon een computer?
 Disclaimer: Dit project is nog in progress, het AI gedeelte en de 3D printed kledinghanger zijn nog niet geimplementeerd maar worden wel vaker opgenoemd in het onderzoek dit om de lezer en de opdrachtgever op de hoogte te stellen van wat de stand van zaken zijn en dat er nagedacht is over oplossingen na de 2 wekelijkse testen.
 ```
 
+# Disclaimer v2
+Een beetje onhandig maar hier staat de code, dit omdat ik onwetend in de verkeerde repo zat te werken. Als dit naar deze repository gebracht moet worden kan dat altijd nog gedaan worden.
+https://github.com/SafouaneM/clothing-closet-for-school
+
 
 # Persoonlijke virtuele kleding kast voor Petra
 
