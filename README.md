@@ -38,12 +38,9 @@ Een beetje onhandig maar hier staat de code, dit omdat ik onwetend in de verkeer
 https://github.com/SafouaneM/clothing-closet-for-school
 
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FAIUvYLPhjs?controls=0" frameborder="0" allowfullscreen></iframe>
-
-
 <img width="1439" alt="Screenshot 2023-05-12 at 01 08 47" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/eb9de517-293c-4ebe-976b-74b2b2e19ad8">
+![ezgif com-video-to-gif (1)](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/9a67f794-6b29-41bb-bfda-a39a3f1d68e4)
+
 
 
 # Persoonlijke virtuele kleding kast voor Petra
