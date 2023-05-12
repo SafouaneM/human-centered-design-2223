@@ -1,40 +1,12 @@
 # Human Centered Design @cmda-minor-web 2022 - 2023
 
-Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
-
-> What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
-
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. 
-Een Frontender heeft verstand van interactie, vormgeving én techniek. 
-Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-        
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. 
-Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? 
-Wat voor principes heb je gebruikt en getest? En is het leuk?
-
-## Opdracht
-
-### Ontwerpen met en voor echte mensen
-
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
-Een echt mens. 
-Je moet je ontwerp elke week testen. 
-Door te testen en te itereren ga je je ontwerp verbeteren. 
-Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. 
-Een _exclusive design_ ... 
-Wie is deze persoon dan voor wie je dit gaat maken? 
-Wat vindt deze persoon leuk of juist niet? 
-Hoe bedient deze persoon een computer?
-
-- [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
-
-
 ```js
 Disclaimer: Dit project is nog in progress, het AI gedeelte en de 3D printed kledinghanger zijn nog niet geimplementeerd maar worden wel vaker opgenoemd in het onderzoek dit om de lezer en de opdrachtgever op de hoogte te stellen van wat de stand van zaken zijn en dat er nagedacht is over oplossingen na de 2 wekelijkse testen.
 ```
 
 # Disclaimer v2
-Een beetje onhandig maar hier staat de code, dit omdat ik onwetend in de verkeerde repo zat te werken. Als dit naar deze repository gebracht moet worden kan dat altijd nog gedaan worden.
+Een beetje onhandig maar hier staat de code, dit omdat ik onwetend in de verkeerde repo zat te werken. Als dit naar deze repository gebracht moet worden kan dat altijd nog gedaan worden. 
+
 https://github.com/SafouaneM/clothing-closet-for-school
 
 
@@ -42,7 +14,9 @@ https://github.com/SafouaneM/clothing-closet-for-school
 
 ![ezgif com-video-to-gif (1)](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/9a67f794-6b29-41bb-bfda-a39a3f1d68e4)
 
+![image](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/02ec2aee-49b6-4614-a88a-9351d78f525b)
 
+---
 
 # Persoonlijke virtuele kleding kast voor Petra
 
@@ -131,15 +105,15 @@ In dit project hebben we de Exclusive Design Principles toegepast om een inclusi
 
 ### Study Situation: 
 
-We hebben de specifieke situatie en behoeften van Petra grondig bestudeerd om een oplossing te ontwerpen die nauw aansluit bij haar dagelijkse leven. We hebben 2 interviews afgenomen en haar leven en ervaringen bestudeerd. Dit gaf ons inzicht in haar unieke behoeften en uitdagingen met betrekking tot het kiezen van kleding.
+We hebben de specifieke situatie en behoeften van Petra grondig bestudeerd om een oplossing te ontwerpen die nauw aansluit bij haar dagelijkse leven. We hebben 2 interviews afgenomen en haar leven en ervaringen bestudeerd. Dit gaf ons inzicht in haar unieke behoeften en uitdagingen met betrekking tot het kiezen van kleding. Hier kwamen we er dus achter dat petra niets kan zien, dat ze een screenreader gebruikt en de text to speech functionaliteit op haar iphone, hier is ze overigens heel behendig mee. 
 
 ### Prioritise Identity: 
 
-Petra's identiteit en persoonlijke voorkeuren waren een belangrijke overweging in ons ontwerpproces. We hebben niet alleen rekening gehouden met haar visuele beperking, maar ook met haar persoonlijke stijl, haar liefde voor sport, en haar verschillende rollen als beleidsmedewerker, eigenaar van een vertaalbureau, en vrijwilliger bij de luisterlijn. We hebben ervoor gezorgd dat de app haar in staat stelt om haar outfits te kiezen op basis van haar persoonlijke stijl en de gelegenheden waarvoor ze zich kleedt.
+Petra's identiteit en persoonlijke voorkeuren waren een belangrijke overweging in ons ontwerpproces. We hebben niet alleen rekening gehouden met haar visuele beperking, maar ook met haar persoonlijke stijl, haar liefde voor sport, en haar verschillende rollen als beleidsmedewerker, eigenaar van een vertaalbureau, en vrijwilliger bij de luisterlijn. We hebben ervoor gezorgd dat de app haar in staat stelt om haar outfits te kiezen op basis van haar persoonlijke stijl en de gelegenheden waarvoor ze zich kleedt. Dus het is fijn als petra de app kan bedienen op een manier hoe zij dat prettig vind, en vervolgens toegang kan krijgen tot haar virtuele kleding kast kleding kan kiezen en daarna delen met haar vriendinnen.
 
 ### Ignore Conventions: 
 
-We hebben conventionele designprincipes terzijde geschoven om een tool te creëren die echt nuttig is voor Petra. In plaats van te vertrouwen op visuele ontwerpelementen, hebben we een oplossing ontworpen die gebruikmaakt van AI-technologie om gedetailleerde beschrijvingen te genereren die Petra's screenreader kan lezen. We hebben ook een 3D-geprinte houder voorgesteld om het proces van het maken van foto's van de kleding te vergemakkelijken.
+We hebben conventionele designprincipes terzijde geschoven om een tool te creëren die echt nuttig is voor Petra. In plaats van te vertrouwen op visuele ontwerpelementen, hebben we een oplossing ontworpen die gebruikmaakt van AI-technologie om gedetailleerde beschrijvingen te genereren die Petra's screenreader kan lezen. We hebben ook een 3D-geprinte houder voorgesteld om het proces van het maken van foto's van de kleding te vergemakkelijken. Het concept van dit alleen is gebaseerd op de screenreader die ze gebruikt. 
 
 ### Add Nonsense: 
 
