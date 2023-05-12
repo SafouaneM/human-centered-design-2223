@@ -1,5 +1,8 @@
-# Human Centered Design @cmda-minor-web 2022 - 2023
+# Persoonlijke virtuele kleding kast voor Petra
 
+![image](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/02ec2aee-49b6-4614-a88a-9351d78f525b)
+
+--- 
 ```js
 Disclaimer: Dit project is nog in progress, het AI gedeelte en de 3D printed kledinghanger zijn nog niet geimplementeerd maar worden wel vaker opgenoemd in het onderzoek dit om de lezer en de opdrachtgever op de hoogte te stellen van wat de stand van zaken zijn en dat er nagedacht is over oplossingen na de 2 wekelijkse testen.
 ```
@@ -9,11 +12,8 @@ Een beetje onhandig maar hier staat de code, dit omdat ik onwetend in de verkeer
 
 https://github.com/SafouaneM/clothing-closet-for-school
 
-![image](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/02ec2aee-49b6-4614-a88a-9351d78f525b)
-
 ---
 
-# Persoonlijke virtuele kleding kast voor Petra
 
 <img width="1439" alt="Screenshot 2023-05-12 at 01 08 47" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/eb9de517-293c-4ebe-976b-74b2b2e19ad8">
 
