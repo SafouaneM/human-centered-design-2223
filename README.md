@@ -107,7 +107,8 @@ Bij de eerste test hadden wij als team wat vragen opgesteld om ons voor te berei
 | Vindt u het gebruik van een mobiel fijn?                                        | Ja                                                                                                                        |
 | Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde? | Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website: lovely.com |
 | Maakt u gebruik van Siri en wat vind u ervan?                                   | Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is |
-| Heeft u zelf misschien ideeën of voorkeur naar een oplossing?                    | Nee                                                                                                                                        |                                                                                                                           
+| Heeft u zelf misschien ideeën of voorkeur naar een oplossing?                    | Nee                                                                                                                                     Bron van de vragen: https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit#
+   |                                                                                                                           
 
 Het eerste gesprek met Petra was dus bedoeld om haar situatie en behoeften te begrijpen, met het oog op het ontwikkelen van een virtuele kledingkast app die specifiek voor haar is ontworpen.
 
@@ -117,16 +118,38 @@ Petra identificeert haar kledingstukken voornamelijk op basis van stof en vorm, 
 
 Ze heeft enige frustraties over websites en apps die niet toegankelijk zijn voor haar screenreader, en ze vindt het gebruik van Siri traag en onhandig, hoewel ze wel een Google Nest thuis gebruikt, voornamelijk voor de thermostaat.
 
+Ik heb haar mondelings mijn prototype verteld en dit ging als volgt:
 
-Bron van de vragen: https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit#
+---
+
+### Mondeling Prototype voor een Eenvoudige Virtuele Kledingkast App
+
+#### Overzicht
+Deze eenvoudige Virtuele Kledingkast-app is ontworpen om Petra, en anderen met vergelijkbare behoeften, te helpen bij het organiseren en toegankelijk maken van hun kleding. Het basisconcept is het creëren van een digitale weergave van Petra's kledingkast, waarbij alle kledingstukken zijn ingedeeld volgens categorieën zoals broeken, shirts, jurken, enz. Het sleutelonderdeel hier is dat de informatie over de kledingstukken via een API wordt geüpload en beschikbaar wordt gemaakt in de app.
+
+#### Functionaliteiten
+API voor het uploaden van kledingstukken: Een assistent, vriend, of familielid kan foto's van Petra's kledingstukken uploaden naar een online database via een API. Elk kledingstuk wordt geüpload met bijbehorende informatie zoals categorie (bijvoorbeeld broek, shirt, jurk), kleur, merk, en maat.
+
+#### Categorisering van kledingstukken: 
+
+Alle geüploade kledingstukken worden automatisch georganiseerd in de app in categorieën op basis van de informatie van de API.
+
+#### Browsen door de kledingkast met screenreader: 
+
+Petra kan de app gebruiken om door de verschillende categorieën en kledingstukken in haar kledingkast te browsen. De app is volledig compatibel met screenreaders, zodat Petra de informatie over de kledingstukken kan horen.
+
+Feedback van Petra na het horen van *Mondeling Prototype voor een Eenvoudige Virtuele Kledingkast App*
+
+Toen ik dit prototype aan Petra voorstelde, gaf ze aan dat hoewel ze het nut van het idee inzag, ze zich zorgen maakte over het feit dat ze afhankelijk was van iemand anders om haar kledingstukken te uploaden. Ze voelde dat dit haar onafhankelijkheid en controle over de app verminderde. Ze wilde graag een oplossing waarbij ze zelf de volledige controle heeft over de applicatie en niet afhankelijk is van anderen om haar kledingstukken te uploaden. Deze feedback was cruciaal en leidde tot het heroverwegen en verfijnen van het ontwerp om het meer autonoom en gebruiksvriendelijk te maken voor Petra.
+
+---
 
 
 ### Test 2 / Gesprek 2
 
 Bij het tweede gesprek waren wij allemaal heel enthosiast om onze nieuwe prototypes te laten zien aan Petra, dat is ook overigens waar wij het gesprek mee begonnen.
 
-Filmpje van prototype nummer 1: https://streamable.com/ensskc <-- Dit protype kwam uit na het eerste gesprek met Petra, ik probeerde haar de meest recente versie te laten gebruiken. 
-
+Filmpje van (echte) prototype nummer 1: https://streamable.com/ensskc <-- Dit protype kwam uit na het eerste gesprek met Petra, ik probeerde haar de meest recente versie te laten gebruiken. 
 
 Het tweede gesprek met Petra was gericht op het testen van het eerste prototype van de virtuele kledingkast app. Petra was over het algemeen enthousiast over het idee en waardeerde dat de oplossing was afgestemd op haar behoeften.
 
