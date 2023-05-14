@@ -6,6 +6,41 @@
 
 --- 
 
+- [Persoonlijke virtuele kleding kast voor Petra](#persoonlijke-virtuele-kleding-kast-voor-petra)
+  * [Onderzoeksvraag](#onderzoeksvraag)
+    + [Hoe kan een virtuele kledingkast-app met AI-technologie en een 3D-geprinte houder bijdragen aan het vergroten van de onafhankelijkheid en zelfvertrouwen van blinden en slechtzienden bij het kiezen van passende kleding voor verschillende gelegenheden?](#hoe-kan-een-virtuele-kledingkast-app-met-ai-technologie-en-een-3d-geprinte-houder-bijdragen-aan-het-vergroten-van-de-onafhankelijkheid-en-zelfvertrouwen-van-blinden-en-slechtzienden-bij-het-kiezen-van-passende-kleding-voor-verschillende-gelegenheden-)
+  * [Oplossing:](#oplossing-)
+  * [Link naar het prototype](#link-naar-het-prototype)
+  * [Who?](#who-)
+  * [What?](#what-)
+  * [How?](#how-)
+  * [Why?](#why-)
+    + [Scenario:](#scenario-)
+  * [Doel project](#doel-project)
+  * [Probleem definitie](#probleem-definitie)
+  * [Verwachtingen:](#verwachtingen-)
+  * [Testplan](#testplan)
+  * [Testverslag](#testverslag)
+    + [Test 1 / Gesprek 1](#test-1---gesprek-1)
+    + [Mondeling Prototype voor een Eenvoudige Virtuele Kledingkast App](#mondeling-prototype-voor-een-eenvoudige-virtuele-kledingkast-app)
+      - [Overzicht](#overzicht)
+      - [Functionaliteiten](#functionaliteiten)
+      - [Categorisering van kledingstukken:](#categorisering-van-kledingstukken-)
+      - [Browsen door de kledingkast met screenreader:](#browsen-door-de-kledingkast-met-screenreader-)
+    + [Test 2 / Gesprek 2](#test-2---gesprek-2)
+  * [Testresultaten en hun bijdrage aan het ontwerp](#testresultaten-en-hun-bijdrage-aan-het-ontwerp)
+    + [Testresultaten:](#testresultaten-)
+    + [Bijdrage aan het ontwerp:](#bijdrage-aan-het-ontwerp-)
+  * [Design Principles](#design-principles)
+    + [Study Situation:](#study-situation-)
+    + [Prioritise Identity:](#prioritise-identity-)
+    + [Ignore Conventions:](#ignore-conventions-)
+    + [Add Nonsense:](#add-nonsense-)
+  * [Conclusie](#conclusie)
+    + [Toekomst](#toekomst)
+
+---
+
 ## Onderzoeksvraag
 
 ### Hoe kan een virtuele kledingkast-app met AI-technologie en een 3D-geprinte houder bijdragen aan het vergroten van de onafhankelijkheid en zelfvertrouwen van blinden en slechtzienden bij het kiezen van passende kleding voor verschillende gelegenheden?
@@ -209,5 +244,28 @@ We hebben conventionele designprincipes terzijde geschoven om een tool te creër
 Hoewel dit project zich richt op het oplossen van een serieus probleem, hebben we ook ruimte gelaten voor plezier en creativiteit. Petra kan bijvoorbeeld de foto's van haar outfits delen met vrienden en familieleden, wat een element van sociale interactie en plezier toevoegt aan de ervaring. Bovendien kan de 3D-geprinte houder, hoewel functioneel, ook worden ontworpen in een reeks leuke en creatieve vormen, wat een extra dimensie van plezier en eigenheid aan de ervaring toevoegt.
 
 Het toepassen van deze Exclusive Design Principles heeft ons geholpen om een oplossing te ontwerpen die niet alleen voldoet aan Petra's functionele behoeften, maar ook aansluit bij haar identiteit en haar leven verrijkt met een vleugje plezier en creativiteit.
+
+
+## Conclusie
+
+Dit project was echt een eye-opener voor me. Door samen te werken met Petra, heb ik inzicht gekregen in hoe ik technologie kan inzetten om het leven van mensen met visuele beperkingen te verbeteren.
+
+Het begon allemaal vrij simpel met een idee voor een virtuele kledingkast-app.
+
+De eerste versie van het prototype, hoewel nuttig, hield niet genoeg rekening met Petra's wens om zelfstandig te zijn. Haar feedback hielp ons om ons ontwerp te heroverwegen en te verbeteren. Het resultaat was een geavanceerder systeem, waarbij gebruik werd gemaakt van AI-technologie om kledingstukken te identificeren, en een 3D-geprinte houder om het proces van het maken van foto's van kleding te vergemakkelijken.
+
+Het toepassen van de Exclusive Design Principles was cruciaal voor het succes van dit project. Door ons te concentreren op Petra's specifieke situatie, haar identiteit te prioriteren, conventies te negeren en een vleugje 'nonsense' toe te voegen, waren we in staat om een oplossing te creëren die niet alleen functioneel was, maar ook plezierig en afgestemd op Petra's unieke behoeften en levensstijl.
+
+Dit project heeft ook aangetoond dat testen en feedback een essentieel onderdeel zijn van het ontwerpproces. Door onze prototypes te testen met Petra en haar feedback te verzamelen, konden we onze ontwerpen verfijnen en verbeteren om beter aan haar behoeften te voldoen.
+
+Dus, in plaats van een basic app, hebben we uiteindelijk een veel cooler systeem gebouwd dat AI gebruikt om kledingstukken te herkennen en een 3D-geprinte houder om het fotograferen van kleding makkelijker te maken.
+
+Het hele proces was echt een les in hoe belangrijk het is om te luisteren naar de mensen voor wie je iets ontwerpt. Door Petra's feedback kon ik de app steeds weer verbeteren. En niet alleen dat, maar door de Exclusive Design Principles te gebruiken, kon ik een app maken die niet alleen handig is, maar ook leuk om te gebruiken.
+
+### Toekomst
+
+In de toekomst hopen we deze app verder te ontwikkelen en te verbeteren, met als doel het leven van mensen met visuele beperkingen te vergemakkelijken en hen meer onafhankelijkheid en zelfvertrouwen te geven. De lessen die we in dit project hebben geleerd, zullen ons ongetwijfeld helpen bij het ontwerpen van meer inclusieve en nuttige technologieën in de toekomst.
+....
+
 
 
