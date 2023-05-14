@@ -30,6 +30,8 @@ De combinatie van de virtuele kledingkast-app en de 3D-geprinte houder biedt Pet
 
 ![ezgif com-video-to-gif (1)](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/9a67f794-6b29-41bb-bfda-a39a3f1d68e4)
 
+Al haar kleding word overigens ook opgeslagen in de database zodat deze veilig blijven en onaangepast zijn.
+<img width="839" alt="Screenshot 2023-05-14 at 17 53 32" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/24df7a5b-17af-4744-b7fd-c1414571f1e8">
 
 ## Link naar het prototype
 ........
