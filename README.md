@@ -1,23 +1,38 @@
 # Persoonlijke virtuele kleding kast voor Petra
 
+<img width="1439" alt="Screenshot 2023-05-12 at 01 08 47" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/eb9de517-293c-4ebe-976b-74b2b2e19ad8">
+
 ![image](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/02ec2aee-49b6-4614-a88a-9351d78f525b)
 
 --- 
-```js
-Disclaimer: Dit project is nog in progress, het AI gedeelte en de 3D printed kledinghanger zijn nog niet geimplementeerd maar worden wel vaker opgenoemd in het onderzoek dit om de lezer en de opdrachtgever op de hoogte te stellen van wat de stand van zaken zijn en dat er nagedacht is over oplossingen na de 2 wekelijkse testen.
-```
 
-# Disclaimer v2
-Een beetje onhandig maar hier staat de code, dit omdat ik onwetend in de verkeerde repo zat te werken. Als dit naar deze repository gebracht moet worden kan dat altijd nog gedaan worden. 
+## Onderzoeksvraag
 
-https://github.com/SafouaneM/clothing-closet-for-school
+### Hoe kan een virtuele kledingkast-app met AI-technologie en een 3D-geprinte houder bijdragen aan het vergroten van de onafhankelijkheid en zelfvertrouwen van blinden en slechtzienden bij het kiezen van passende kleding voor verschillende gelegenheden?
 
----
+Om tot de bovenstaande onderzoeksvraag te komen, heb ik een iteratief proces gevolgd waarbij ik en mijn team 2 interviews heb afgenomen en Petra's leven en ervaringen heb bestudeerd. Dit hielp me een dieper inzicht te krijgen in haar specifieke behoeften en uitdagingen met betrekking tot het kiezen van kleding. 
 
+Tijdens de interviews met Petra, heb ik haar gevraagd naar haar dagelijkse routines, inclusief hoe ze momenteel haar kleding selecteert en welke obstakels ze tegenkomt. Daarnaast heb ik haar gevraagd naar haar wensen en verwachtingen met betrekking tot een mogelijke oplossing. Deze gesprekken waren van onschatbare waarde omdat ze me een diepgaand inzicht gaven in de specifieke problemen waarmee Petra werd geconfronteerd en welke elementen van een oplossing voor haar belangrijk waren.
 
-<img width="1439" alt="Screenshot 2023-05-12 at 01 08 47" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/eb9de517-293c-4ebe-976b-74b2b2e19ad8">
+Door het analyseren van de verzamelde informatie en het observeren van Petra's dagelijkse leven, kon ik patronen en gemeenschappelijke thema's identificeren. Het werd duidelijk dat Petra behoefte had aan een tool die haar kon helpen bij het kiezen van passende kleding voor verschillende gelegenheden, en dat dit tool moest worden aangepast aan haar visuele beperking.
+
+Op basis van deze bevindingen en mijn begrip van de technologische mogelijkheden, heb ik vervolgens verschillende ideeën en concepten bedacht. Ik heb gekeken naar bestaande oplossingen en technologieën die vergelijkbaar waren met wat Petra nodig had. Dit stelde me in staat om te brainstormen en te experimenteren met verschillende benaderingen om een effectieve en haalbare oplossing te vinden.
+
+Uiteindelijk heb ik de onderzoeksvraag geformuleerd als een resultaat van dit proces van onderzoek, interviews en conceptontwikkeling. Het doel was om een onderzoeksvraag te creëren die nauw aansloot bij Petra's behoeften en die tegelijkertijd voldoende ruimte bood voor verkenning en innovatie.
+
+## Oplossing:
+
+De voorgestelde oplossing is een virtuele kledingkast-app die gebruikmaakt van AI-technologie en een 3D-geprinte houder voor het maken van foto's. De app stelt Petra in staat om foto's van haar kleding te uploaden, die vervolgens worden geanalyseerd om kleuren en stijlen te identificeren. Daarna genereert de app gedetailleerde beschrijvingen van de kleding, die kunnen worden voorgelezen door Petra's screenreader.
+
+Om het proces van het maken van foto's te vergemakkelijken, kan Petra de kleding op een hanger plaatsen en op de tast de gewenste kledingstukken vinden. Daarnaast wordt voorgesteld om een 3D-geprinte houder te ontwerpen die aan de kledinghanger kan worden bevestigd, zodat Petra haar smartphone op een stabiele positie kan plaatsen om foto's te maken.
+
+De combinatie van de virtuele kledingkast-app en de 3D-geprinte houder biedt Petra een gebruiksvriendelijke en intuïtieve manier om haar kledingkeuzes te maken. Door de gedetailleerde beschrijvingen en het gebruik van AI-technologie kan Petra vertrouwen op accurate informatie bij het selecteren van passende kleding voor verschillende gelegenheden.
 
 ![ezgif com-video-to-gif (1)](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/9a67f794-6b29-41bb-bfda-a39a3f1d68e4)
+
+
+## Link naar het prototype
+........
 
 
 Who?
@@ -50,19 +65,6 @@ Ik begrijp dat dit proces uitdagend kan zijn voor Petra, daarom heb ik een alter
 
 Deze aanpassingen zijn gebaseerd op mijn gesprekken met Petra en mijn inzicht in haar behoeften en uitdagingen. Het doel is om Petra een grotere mate van onafhankelijkheid en zelfvertrouwen te geven bij het kiezen van haar kleding.
 
-## Onderzoeksvraag
-
-### Hoe kan een virtuele kledingkast-app met AI-technologie en een 3D-geprinte houder bijdragen aan het vergroten van de onafhankelijkheid en zelfvertrouwen van blinden en slechtzienden bij het kiezen van passende kleding voor verschillende gelegenheden?
-
-Om tot de bovenstaande onderzoeksvraag te komen, heb ik een iteratief proces gevolgd waarbij ik en mijn team 2 interviews heb afgenomen en Petra's leven en ervaringen heb bestudeerd. Dit hielp me een dieper inzicht te krijgen in haar specifieke behoeften en uitdagingen met betrekking tot het kiezen van kleding. 
-
-Tijdens de interviews met Petra, heb ik haar gevraagd naar haar dagelijkse routines, inclusief hoe ze momenteel haar kleding selecteert en welke obstakels ze tegenkomt. Daarnaast heb ik haar gevraagd naar haar wensen en verwachtingen met betrekking tot een mogelijke oplossing. Deze gesprekken waren van onschatbare waarde omdat ze me een diepgaand inzicht gaven in de specifieke problemen waarmee Petra werd geconfronteerd en welke elementen van een oplossing voor haar belangrijk waren.
-
-Door het analyseren van de verzamelde informatie en het observeren van Petra's dagelijkse leven, kon ik patronen en gemeenschappelijke thema's identificeren. Het werd duidelijk dat Petra behoefte had aan een tool die haar kon helpen bij het kiezen van passende kleding voor verschillende gelegenheden, en dat dit tool moest worden aangepast aan haar visuele beperking.
-
-Op basis van deze bevindingen en mijn begrip van de technologische mogelijkheden, heb ik vervolgens verschillende ideeën en concepten bedacht. Ik heb gekeken naar bestaande oplossingen en technologieën die vergelijkbaar waren met wat Petra nodig had. Dit stelde me in staat om te brainstormen en te experimenteren met verschillende benaderingen om een effectieve en haalbare oplossing te vinden.
-
-Uiteindelijk heb ik de onderzoeksvraag geformuleerd als een resultaat van dit proces van onderzoek, interviews en conceptontwikkeling. Het doel was om een onderzoeksvraag te creëren die nauw aansloot bij Petra's behoeften en die tegelijkertijd voldoende ruimte bood voor verkenning en innovatie.
 
 ## Probleem definitie
 
@@ -73,18 +75,48 @@ Blinden en slechtzienden ervaren uitdagingen bij het zelfstandig kiezen van kled
 Het implementeren van de voorgestelde oplossing brengt enkele verwachtingen met zich mee. Allereerst wordt verwacht dat de virtuele kledingkast-app, in combinatie met de 3D-geprinte houder, Petra zal ondersteunen bij het vergroten van haar onafhankelijkheid en zelfvertrouwen bij het kiezen van passende kleding voor verschillende gelegenheden. Door gebruik te maken van AI-technologie en gedetailleerde beschrijvingen van de kleding, zal Petra in staat zijn om zelfstandig en weloverwogen keuzes te maken, zonder afhankelijk te zijn van visuele input.
 
 Het doel is om Petra een gebruiksvriendelijke tool te bieden die haar helpt bij het zelfstandig selecteren van kleding. Hierdoor zal Petra zich zelfverzekerd en passend gekleed voelen, wat haar dagelijkse leven en haar deelname aan diverse activiteiten en evenementen zal verbeteren.
-
-## Oplossing:
-
-De voorgestelde oplossing is een virtuele kledingkast-app die gebruikmaakt van AI-technologie en een 3D-geprinte houder voor het maken van foto's. De app stelt Petra in staat om foto's van haar kleding te uploaden, die vervolgens worden geanalyseerd om kleuren en stijlen te identificeren. Daarna genereert de app gedetailleerde beschrijvingen van de kleding, die kunnen worden voorgelezen door Petra's screenreader.
-
-Om het proces van het maken van foto's te vergemakkelijken, kan Petra de kleding op een hanger plaatsen en op de tast de gewenste kledingstukken vinden. Daarnaast wordt voorgesteld om een 3D-geprinte houder te ontwerpen die aan de kledinghanger kan worden bevestigd, zodat Petra haar smartphone op een stabiele positie kan plaatsen om foto's te maken.
-
-De combinatie van de virtuele kledingkast-app en de 3D-geprinte houder biedt Petra een gebruiksvriendelijke en intuïtieve manier om haar kledingkeuzes te maken. Door de gedetailleerde beschrijvingen en het gebruik van AI-technologie kan Petra vertrouwen op accurate informatie bij het selecteren van passende kleding voor verschillende gelegenheden.
  
 
-## De tests nog een keer uitgelegd aan de hand van video's
 
+
+## Testplan
+Het testplan omvat verschillende fasen van het testproces, met inbegrip van de planning, uitvoering en evaluatie van de tests. Hieronder volgen de stappen van ons testplan:
+
+Identificatie van testdoelen: Het doel van de test is om te bepalen of de virtuele kledingkast-app effectief en intuïtief werkt voor Petra, en om eventuele problemen of verbeterpunten te identificeren.
+
+Planning van testmethoden: De tests zullen worden uitgevoerd door middel van gebruikerstests, waarbij Petra de app zal gebruiken en feedback zal geven over haar ervaring. Wij zullen observeren hoe Petra de app gebruikt en notities maken van eventuele problemen of moeilijkheden die zij tegenkomt.
+
+Uitvoering van tests: We voeren de tests uit door Petra de app te laten gebruiken en haar gedrag en feedback te observeren en te documenteren.
+
+Evaluatie van testresultaten: Na de tests zullen we de resultaten analyseren en samenvatten om te bepalen welke aspecten van de app goed werken en welke verbeterd moeten worden.
+
+
+### Test 1 / Gesprek 1
+Bij de eerste test hadden wij als team wat vragen opgesteld om ons voor te bereiden op het gesprek met Petra, en om wat meer duidelijkheid te krijgen over de situatie van Petra
+
+| Vraag                                                                           | Antwoord                                                                                                                  |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Bent u blind geboren of blind geworden?                                         | Geboren                                                                                                                   |
+| Hoe ziet uw dagelijks leven eruit?                                              | Gewoon naar werk met ov, soms thuis, soms op kantoor. Bij cliëntenbelang Amsterdam.                                       |
+| Wat is uw gedachte bij een virtuele kledingkast?                                |                                                                                                                           |
+| Hoe kiest u nu uw kleding?                                                      | Sommige stukken zijn makkelijk te identificeren op bijvoorbeeld gevoel, maar bijvoorbeeld hemden of panties zijn lastiger uit elkaar te halen. |
+| Waaraan identificeert u uw kledingstukken?                                      | Stof, vorm                                                                                                                |
+| Krijgt u veel hulp thuis?                                                       | Nee, is meestal niet nodig, behalve bij twijfel.                                                                          |
+| Wat zijn uw irritaties aan applicaties/website met uw screen reader?             | Hangt heel erg van de site af, soms is het helemaal niet toegankelijk. Soms komen er popups in de weg, knoppen hebben geen tekst / label. |
+| Vindt u het gebruik van een mobiel fijn?                                        | Ja                                                                                                                        |
+| Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde? | Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website: lovely.com |
+| Maakt u gebruik van Siri en wat vind u ervan?                                   | Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is |
+| Heeft u zelf misschien ideeën of voorkeur naar een oplossing?                    | Nee                                                                                                                       |
+| Specifieke kleuren, licht of donker bruin? Pattroon herkenning.                 |                                                                                                                           |
+
+
+
+Bron van de vragen: https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit#
+
+
+### Test 2 / Gesprek 2
+
+Bij het tweede gesprek waren wij allemaal heel enthosiast om onze nieuwe prototypes te laten zien aan Petra, dat is ook overigens waar wij het gesprek mee begonnen.
 
 Filmpje van prototype nummer 1: https://streamable.com/ensskc <-- Dit protype kwam uit na het eerste gesprek met Petra, ik probeerde haar de meest recente versie te laten gebruiken. 
 
@@ -98,6 +130,24 @@ Echter, Petra gaf aan dat ze het nog lastig vond om zelf foto's te uploaden. Ze 
 Om deze uitdagingen aan te pakken, heb ik al voorgesteld om de camera in de app te laten werken met AI-technologie, zodat de kledingstukken automatisch herkend kunnen worden. Hierdoor kan Petra een foto maken zonder zich zorgen te hoeven maken over het selecteren van het juiste kledingstuk. Daarnaast heb ik ook het idee van de 3D-geprinte houder voorgesteld, zodat ze het kledingstuk op een stabiele manier kan positioneren voor het maken van de foto, waardoor het proces voor haar eenvoudiger wordt.
 
 Door deze aanpassingen kunnen we tegemoetkomen aan de bezorgdheid van Petra en haar helpen om effectiever gebruik te maken van de app. Het doel is om een intuïtieve en betrouwbare oplossing te bieden, zodat Petra zich zelfverzekerd en onafhankelijk kan kleden, zonder afhankelijk te zijn van visuele input.
+
+
+## Testresultaten en hun bijdrage aan het ontwerp
+### Testresultaten:
+
+Na het eerste prototype identificeerden we de volgende belangrijke punten:
+
+Petra vond het lastig om zelf foto's te uploaden en de juiste foto te maken.
+Ze had moeite met het identificeren van welk kledingstuk ze vasthield.
+### Bijdrage aan het ontwerp:
+Deze inzichten hebben ons geholpen om verbeteringen in het ontwerp aan te brengen. We hebben de volgende aanpassingen gemaakt:
+
+*Gebruik van AI-technologie in de camera van de app*: Door AI-technologie te integreren, kunnen de kledingstukken automatisch herkend worden. Dit helpt Petra om een foto te maken zonder zich zorgen te hoeven maken over het selecteren van het juiste kledingstuk.
+
+*Introductie van een 3D-geprinte houder*: Deze houder helpt Petra om het kledingstuk op een stabiele manier te positioneren voor het maken van de foto, waardoor het proces voor haar eenvoudiger wordt.
+
+De feedback van Petra en de resultaten van onze tests hebben dus direct bijgedragen aan de verbetering van het ontwerp van onze app. Deze aanpassingen zorgen ervoor dat Petra een betere en meer gepersonaliseerde ervaring heeft met onze virtuele kledingkast-app.
+
 
 ## Design Principles
 
@@ -120,19 +170,5 @@ We hebben conventionele designprincipes terzijde geschoven om een tool te creër
 Hoewel dit project zich richt op het oplossen van een serieus probleem, hebben we ook ruimte gelaten voor plezier en creativiteit. Petra kan bijvoorbeeld de foto's van haar outfits delen met vrienden en familieleden, wat een element van sociale interactie en plezier toevoegt aan de ervaring. Bovendien kan de 3D-geprinte houder, hoewel functioneel, ook worden ontworpen in een reeks leuke en creatieve vormen, wat een extra dimensie van plezier en eigenheid aan de ervaring toevoegt.
 
 Het toepassen van deze Exclusive Design Principles heeft ons geholpen om een oplossing te ontwerpen die niet alleen voldoet aan Petra's functionele behoeften, maar ook aansluit bij haar identiteit en haar leven verrijkt met een vleugje plezier en creativiteit.
-
-
-## Rubric
-
-De opdracht wordt beoordeeld aan de hand van onderstaande rubric. Je moet slagen voor het criterium (middenkolom) om het vak te halen. 
-
-| Ontoereikend  | Criteria  |  Verbetering |
-|---|---|---|
-|  | Readme - In de beschrijving van het project staat de opdracht uitgelegd, is het probleem duidelijk beschreven en hoe het probleem is opgelost. | | 
-|  | Design Principles - Student laat zien hoe de Exclusive Design Principles zijn toegepast in het ontwerp. De principes study situation, prioritise identity, ignore conventions en add nonsense zijn goed uitgelegd. Aan de hand van de principes wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp. | | 
-|  | User Needs - Er is een user scenario geschreven dat aansluit bij de identiteit van de test persoon. Er is een duidelijk en volledig user scenario geschreven dat antwoord geeft op de 4 w-vragen: Who? What? How? en Why? | | 
-|  | Testen - Er is elke week getest. Er is een verslaglegging van de tests gedaan waarin de test-opzet wordt behandeld en er is een duidelijke conclusie beschreven met do's en dont's over hoe je goed kan testen. | | 
-|  | Testresultaten - Aan de hand van de tests wordt duidelijk gemaakt hoe deze hebben bijgedragen aan het verbeteren van het ontwerp of hoe dit een volgende keer beter of anders kan. | | 
-
 
 
