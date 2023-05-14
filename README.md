@@ -109,8 +109,7 @@ Bij de eerste test hadden wij als team wat vragen opgesteld om ons voor te berei
 | Vindt u het gebruik van een mobiel fijn?                                        | Ja                                                                                                                        |
 | Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde? | Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website: lovely.com |
 | Maakt u gebruik van Siri en wat vind u ervan?                                   | Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is |
-| Heeft u zelf misschien ideeën of voorkeur naar een oplossing?                    | Nee                                                                                                                                     Bron van de vragen: https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit#
-   |                                                                                                                           
+| Heeft u zelf misschien ideeën of voorkeur naar een oplossing?                    | Nee                                                                                                                        | Bron van de vragen: https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit# |                                                                                                                           
 
 Het eerste gesprek met Petra was dus bedoeld om haar situatie en behoeften te begrijpen, met het oog op het ontwikkelen van een virtuele kledingkast app die specifiek voor haar is ontworpen.
 
