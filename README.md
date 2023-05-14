@@ -90,6 +90,7 @@ Uitvoering van tests: We voeren de tests uit door Petra de app te laten gebruike
 
 Evaluatie van testresultaten: Na de tests zullen we de resultaten analyseren en samenvatten om te bepalen welke aspecten van de app goed werken en welke verbeterd moeten worden.
 
+## Testverslag
 
 ### Test 1 / Gesprek 1
 Bij de eerste test hadden wij als team wat vragen opgesteld om ons voor te bereiden op het gesprek met Petra, en om wat meer duidelijkheid te krijgen over de situatie van Petra
@@ -98,7 +99,7 @@ Bij de eerste test hadden wij als team wat vragen opgesteld om ons voor te berei
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | Bent u blind geboren of blind geworden?                                         | Geboren                                                                                                                   |
 | Hoe ziet uw dagelijks leven eruit?                                              | Gewoon naar werk met ov, soms thuis, soms op kantoor. Bij cliëntenbelang Amsterdam.                                       |
-| Wat is uw gedachte bij een virtuele kledingkast?                                |                                                                                                                           |
+| Wat is uw gedachte bij een virtuele kledingkast?                                |   (Hier kon ze nog niet goed genoeg antwoord op geven vond ik)                                                                                                                        |
 | Hoe kiest u nu uw kleding?                                                      | Sommige stukken zijn makkelijk te identificeren op bijvoorbeeld gevoel, maar bijvoorbeeld hemden of panties zijn lastiger uit elkaar te halen. |
 | Waaraan identificeert u uw kledingstukken?                                      | Stof, vorm                                                                                                                |
 | Krijgt u veel hulp thuis?                                                       | Nee, is meestal niet nodig, behalve bij twijfel.                                                                          |
@@ -106,9 +107,15 @@ Bij de eerste test hadden wij als team wat vragen opgesteld om ons voor te berei
 | Vindt u het gebruik van een mobiel fijn?                                        | Ja                                                                                                                        |
 | Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde? | Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website: lovely.com |
 | Maakt u gebruik van Siri en wat vind u ervan?                                   | Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is |
-| Heeft u zelf misschien ideeën of voorkeur naar een oplossing?                    | Nee                                                                                                                       |
-| Specifieke kleuren, licht of donker bruin? Pattroon herkenning.                 |                                                                                                                           |
+| Heeft u zelf misschien ideeën of voorkeur naar een oplossing?                    | Nee                                                                                                                                        |                                                                                                                           
 
+Het eerste gesprek met Petra was dus bedoeld om haar situatie en behoeften te begrijpen, met het oog op het ontwikkelen van een virtuele kledingkast app die specifiek voor haar is ontworpen.
+
+Uit het gesprek en de vragen die we stelden bleek dat Petra blind is geboren en dat ze een screenreader en text-to-speech functionaliteit op haar iPhone gebruikt. Ze werkt zowel thuis als op kantoor en gebruikt het openbaar vervoer om zich te verplaatsen.
+
+Petra identificeert haar kledingstukken voornamelijk op basis van stof en vorm, en ze krijgt niet veel hulp thuis(omdat ze graag dingen zelf wilt doen), behalve bij twijfel. Ze heeft moeite met het identificeren van bepaalde kledingstukken, zoals hemden of panties.
+
+Ze heeft enige frustraties over websites en apps die niet toegankelijk zijn voor haar screenreader, en ze vindt het gebruik van Siri traag en onhandig, hoewel ze wel een Google Nest thuis gebruikt, voornamelijk voor de thermostaat.
 
 
 Bron van de vragen: https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit#
@@ -120,6 +127,14 @@ Bij het tweede gesprek waren wij allemaal heel enthosiast om onze nieuwe prototy
 
 Filmpje van prototype nummer 1: https://streamable.com/ensskc <-- Dit protype kwam uit na het eerste gesprek met Petra, ik probeerde haar de meest recente versie te laten gebruiken. 
 
+
+Het tweede gesprek met Petra was gericht op het testen van het eerste prototype van de virtuele kledingkast app. Petra was over het algemeen enthousiast over het idee en waardeerde dat de oplossing was afgestemd op haar behoeften.
+
+Toch merkte Petra op dat ze het lastig vond om zelf foto's te uploaden en het juiste kledingstuk te selecteren om te fotograferen. Ze gaf aan dat ze een shirt kan ophangen, maar dat ze niet weet welk specifiek shirt het is.
+
+Naar aanleiding van deze feedback hebben we voorgesteld om de camera in de app te laten werken met AI-technologie om de kledingstukken automatisch te herkennen. We hebben ook het idee voorgesteld om een 3D-geprinte houder te gebruiken om het proces van het maken van foto's van de kleding te vergemakkelijken.
+
+Dit testproces heeft ons waardevolle inzichten gegeven in de specifieke behoeften en uitdagingen van Petra, en heeft ons in staat gesteld om de virtuele kledingkast app te verbeteren en meer op maat te maken voor haar gebruik.
 
 Opmerkingen van Petra na prototype 1:
 
