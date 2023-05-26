@@ -247,6 +247,20 @@ Hoewel dit project zich richt op het oplossen van een serieus probleem, hebben w
 
 Het toepassen van deze Exclusive Design Principles heeft ons geholpen om een oplossing te ontwerpen die niet alleen voldoet aan Petra's functionele behoeften, maar ook aansluit bij haar identiteit en haar leven verrijkt met een vleugje plezier en creativiteit.
 
+## Leerdoelen
+
+### Maak verschillende ontwerpen
+Ik heb flink wat ontwerpen op papier gezet om uit te vogelen wat het beste werkt. 
+Ik heb allerlei soorten interacties uitgeprobeerd en gekeken wat wel en niet lekker loopt. Wat beter had gekund? Misschien iets meer aandacht voor de gepersonaliseerde screenreader van petra en de plaatsing van de tekst zodat die screen reader alles zou oppakken, ik heb vooral gericht op verschillende oplossingen.
+
+### Beschrijf je test-persoon met een User Scenario
+Ik heb een User Scenario geschreven voor Petra. De basics staan erin: wie is ze, wat doet ze, hoe doet ze dat en waarom doet ze dat? Het is alweer een tijdje geleden dat ik voor het laatst zo'n scenario schreef. Ik denk dat ik een aardige poging heb gewaagd, maar ik zie ook wel dat het beter kan. Toch denk ik dat je uit het scenario wel een goed beeld krijgt van Petra en wat ze nodig heeft.
+
+### Test je ideeën en ontwerp elke week
+Ik heb twee tests uitgevoerd voor dit project. Bij de eerste test had ik nog geen werkend prototype, maar ik had wel al wat aannames die ik wilde checken. De feedback die ik toen kreeg, heeft me geholpen bij het maken van mijn eerste prototype. Bij de tweede test lukte het me niet om een werkend prototype te testen, maar ik heb wel antwoord gekregen op mijn vragen. Ik heb alles goed gedocumenteerd en de feedback heeft me geholpen om mijn ontwerp te verbeteren.
+
+### Leg de Exclusive Design Principles uit
+Ik heb de Exclusive Design Principles van Vasilis toegepast en uitgelegd in mijn ontwerp. Ik heb precies beschreven wat ik ermee heb gedaan en hoe ik ze heb gebruikt om mijn ontwerp te verbeteren.
 
 ## Conclusie
 
@@ -267,7 +281,7 @@ Het hele proces was echt een les in hoe belangrijk het is om te luisteren naar d
 ### Toekomst
 
 In de toekomst hopen we deze app verder te ontwikkelen en te verbeteren, met als doel het leven van mensen met visuele beperkingen te vergemakkelijken en hen meer onafhankelijkheid en zelfvertrouwen te geven. De lessen die we in dit project hebben geleerd, zullen ons ongetwijfeld helpen bij het ontwerpen van meer inclusieve en nuttige technologieën in de toekomst.
-....
+
 
 
 
