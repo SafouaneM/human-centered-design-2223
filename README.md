@@ -71,7 +71,9 @@ https://streamable.com/ensskc
     + [Ignore Conventions:](#ignore-conventions-)
     + [Add Nonsense:](#add-nonsense-)
   * [Conclusie](#conclusie)
-    + [Toekomst](#toekomst)
+* [Leerdoelen](#conclusie)
+
+  + [Toekomst](#toekomst)
 
 ---
 
