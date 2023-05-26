@@ -69,7 +69,9 @@ Al haar kleding word overigens ook opgeslagen in de database zodat deze veilig b
 <img width="839" alt="Screenshot 2023-05-14 at 17 53 32" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/24df7a5b-17af-4744-b7fd-c1414571f1e8">
 
 ## Link naar het prototype
-........
+De link is helaas niet meer bruikbaar door dat het gratis plan van de hosting op is. Er is wel een video hoe het tewerkt ging hieronder beschreven samen met de link naar de code ik hoop hiermee de lezer genoeg geinformeerd te hebben.
+https://github.com/SafouaneM/clothing-closet-for-school
+https://streamable.com/ensskc
 
 
 Who?
@@ -113,7 +115,6 @@ Het implementeren van de voorgestelde oplossing brengt enkele verwachtingen met 
 
 Het doel is om Petra een gebruiksvriendelijke tool te bieden die haar helpt bij het zelfstandig selecteren van kleding. Hierdoor zal Petra zich zelfverzekerd en passend gekleed voelen, wat haar dagelijkse leven en haar deelname aan diverse activiteiten en evenementen zal verbeteren.
  
-
 
 
 ## Testplan
