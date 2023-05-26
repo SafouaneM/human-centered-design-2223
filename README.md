@@ -4,8 +4,42 @@
 
 ![image](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/02ec2aee-49b6-4614-a88a-9351d78f525b)
 
---- 
 
+
+## Onderzoeksvraag
+
+### Hoe kan een virtuele kledingkast-app met AI-technologie en een 3D-geprinte houder bijdragen aan het vergroten van de onafhankelijkheid en zelfvertrouwen van blinden en slechtzienden bij het kiezen van passende kleding voor verschillende gelegenheden?
+
+Om tot de bovenstaande onderzoeksvraag te komen, heb ik een iteratief proces gevolgd waarbij ik en mijn team 2 interviews heb afgenomen en Petra's leven en ervaringen heb bestudeerd. Dit hielp me een dieper inzicht te krijgen in haar specifieke behoeften en uitdagingen met betrekking tot het kiezen van kleding. 
+
+Tijdens de interviews met Petra, heb ik haar gevraagd naar haar dagelijkse routines, inclusief hoe ze momenteel haar kleding selecteert en welke obstakels ze tegenkomt. Daarnaast heb ik haar gevraagd naar haar wensen en verwachtingen met betrekking tot een mogelijke oplossing. Deze gesprekken waren van onschatbare waarde omdat ze me een diepgaand inzicht gaven in de specifieke problemen waarmee Petra werd geconfronteerd en welke elementen van een oplossing voor haar belangrijk waren.
+
+Door het analyseren van de verzamelde informatie en het observeren van Petra's dagelijkse leven, kon ik patronen en gemeenschappelijke thema's identificeren. Het werd duidelijk dat Petra behoefte had aan een tool die haar kon helpen bij het kiezen van passende kleding voor verschillende gelegenheden, en dat dit tool moest worden aangepast aan haar visuele beperking.
+
+Op basis van deze bevindingen en mijn begrip van de technologische mogelijkheden, heb ik vervolgens verschillende ideeën en concepten bedacht. Ik heb gekeken naar bestaande oplossingen en technologieën die vergelijkbaar waren met wat Petra nodig had. Dit stelde me in staat om te brainstormen en te experimenteren met verschillende benaderingen om een effectieve en haalbare oplossing te vinden.
+
+Uiteindelijk heb ik de onderzoeksvraag geformuleerd als een resultaat van dit proces van onderzoek, interviews en conceptontwikkeling. Het doel was om een onderzoeksvraag te creëren die nauw aansloot bij Petra's behoeften en die tegelijkertijd voldoende ruimte bood voor verkenning en innovatie.
+
+## Oplossing:
+
+De voorgestelde oplossing is een virtuele kledingkast-app die gebruikmaakt van AI-technologie en een 3D-geprinte houder voor het maken van foto's. De app stelt Petra in staat om foto's van haar kleding te uploaden, die vervolgens worden geanalyseerd om kleuren en stijlen te identificeren. Daarna genereert de app gedetailleerde beschrijvingen van de kleding, die kunnen worden voorgelezen door Petra's screenreader.
+
+Om het proces van het maken van foto's te vergemakkelijken, kan Petra de kleding op een hanger plaatsen en op de tast de gewenste kledingstukken vinden. Daarnaast wordt voorgesteld om een 3D-geprinte houder te ontwerpen die aan de kledinghanger kan worden bevestigd, zodat Petra haar smartphone op een stabiele positie kan plaatsen om foto's te maken.
+
+De combinatie van de virtuele kledingkast-app en de 3D-geprinte houder biedt Petra een gebruiksvriendelijke en intuïtieve manier om haar kledingkeuzes te maken. Door de gedetailleerde beschrijvingen en het gebruik van AI-technologie kan Petra vertrouwen op accurate informatie bij het selecteren van passende kleding voor verschillende gelegenheden.
+
+![ezgif com-video-to-gif (1)](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/9a67f794-6b29-41bb-bfda-a39a3f1d68e4)
+
+Al haar kleding word overigens ook opgeslagen in de database zodat deze veilig blijven en onaangepast zijn.
+<img width="839" alt="Screenshot 2023-05-14 at 17 53 32" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/24df7a5b-17af-4744-b7fd-c1414571f1e8">
+
+## Link naar het prototype
+De link is helaas niet meer bruikbaar door dat het gratis plan van de hosting op is. Er is wel een video hoe het tewerkt ging hieronder beschreven samen met de link naar de code ik hoop hiermee de lezer genoeg geinformeerd te hebben.
+https://github.com/SafouaneM/clothing-closet-for-school
+https://streamable.com/ensskc
+
+--- 
+## Inhoudsopgave
 - [Persoonlijke virtuele kleding kast voor Petra](#persoonlijke-virtuele-kleding-kast-voor-petra)
   * [Onderzoeksvraag](#onderzoeksvraag)
     + [Hoe kan een virtuele kledingkast-app met AI-technologie en een 3D-geprinte houder bijdragen aan het vergroten van de onafhankelijkheid en zelfvertrouwen van blinden en slechtzienden bij het kiezen van passende kleding voor verschillende gelegenheden?](#hoe-kan-een-virtuele-kledingkast-app-met-ai-technologie-en-een-3d-geprinte-houder-bijdragen-aan-het-vergroten-van-de-onafhankelijkheid-en-zelfvertrouwen-van-blinden-en-slechtzienden-bij-het-kiezen-van-passende-kleding-voor-verschillende-gelegenheden-)
@@ -40,39 +74,6 @@
     + [Toekomst](#toekomst)
 
 ---
-
-## Onderzoeksvraag
-
-### Hoe kan een virtuele kledingkast-app met AI-technologie en een 3D-geprinte houder bijdragen aan het vergroten van de onafhankelijkheid en zelfvertrouwen van blinden en slechtzienden bij het kiezen van passende kleding voor verschillende gelegenheden?
-
-Om tot de bovenstaande onderzoeksvraag te komen, heb ik een iteratief proces gevolgd waarbij ik en mijn team 2 interviews heb afgenomen en Petra's leven en ervaringen heb bestudeerd. Dit hielp me een dieper inzicht te krijgen in haar specifieke behoeften en uitdagingen met betrekking tot het kiezen van kleding. 
-
-Tijdens de interviews met Petra, heb ik haar gevraagd naar haar dagelijkse routines, inclusief hoe ze momenteel haar kleding selecteert en welke obstakels ze tegenkomt. Daarnaast heb ik haar gevraagd naar haar wensen en verwachtingen met betrekking tot een mogelijke oplossing. Deze gesprekken waren van onschatbare waarde omdat ze me een diepgaand inzicht gaven in de specifieke problemen waarmee Petra werd geconfronteerd en welke elementen van een oplossing voor haar belangrijk waren.
-
-Door het analyseren van de verzamelde informatie en het observeren van Petra's dagelijkse leven, kon ik patronen en gemeenschappelijke thema's identificeren. Het werd duidelijk dat Petra behoefte had aan een tool die haar kon helpen bij het kiezen van passende kleding voor verschillende gelegenheden, en dat dit tool moest worden aangepast aan haar visuele beperking.
-
-Op basis van deze bevindingen en mijn begrip van de technologische mogelijkheden, heb ik vervolgens verschillende ideeën en concepten bedacht. Ik heb gekeken naar bestaande oplossingen en technologieën die vergelijkbaar waren met wat Petra nodig had. Dit stelde me in staat om te brainstormen en te experimenteren met verschillende benaderingen om een effectieve en haalbare oplossing te vinden.
-
-Uiteindelijk heb ik de onderzoeksvraag geformuleerd als een resultaat van dit proces van onderzoek, interviews en conceptontwikkeling. Het doel was om een onderzoeksvraag te creëren die nauw aansloot bij Petra's behoeften en die tegelijkertijd voldoende ruimte bood voor verkenning en innovatie.
-
-## Oplossing:
-
-De voorgestelde oplossing is een virtuele kledingkast-app die gebruikmaakt van AI-technologie en een 3D-geprinte houder voor het maken van foto's. De app stelt Petra in staat om foto's van haar kleding te uploaden, die vervolgens worden geanalyseerd om kleuren en stijlen te identificeren. Daarna genereert de app gedetailleerde beschrijvingen van de kleding, die kunnen worden voorgelezen door Petra's screenreader.
-
-Om het proces van het maken van foto's te vergemakkelijken, kan Petra de kleding op een hanger plaatsen en op de tast de gewenste kledingstukken vinden. Daarnaast wordt voorgesteld om een 3D-geprinte houder te ontwerpen die aan de kledinghanger kan worden bevestigd, zodat Petra haar smartphone op een stabiele positie kan plaatsen om foto's te maken.
-
-De combinatie van de virtuele kledingkast-app en de 3D-geprinte houder biedt Petra een gebruiksvriendelijke en intuïtieve manier om haar kledingkeuzes te maken. Door de gedetailleerde beschrijvingen en het gebruik van AI-technologie kan Petra vertrouwen op accurate informatie bij het selecteren van passende kleding voor verschillende gelegenheden.
-
-![ezgif com-video-to-gif (1)](https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/9a67f794-6b29-41bb-bfda-a39a3f1d68e4)
-
-Al haar kleding word overigens ook opgeslagen in de database zodat deze veilig blijven en onaangepast zijn.
-<img width="839" alt="Screenshot 2023-05-14 at 17 53 32" src="https://github.com/SafouaneM/human-centered-design-2223/assets/31611670/24df7a5b-17af-4744-b7fd-c1414571f1e8">
-
-## Link naar het prototype
-De link is helaas niet meer bruikbaar door dat het gratis plan van de hosting op is. Er is wel een video hoe het tewerkt ging hieronder beschreven samen met de link naar de code ik hoop hiermee de lezer genoeg geinformeerd te hebben.
-https://github.com/SafouaneM/clothing-closet-for-school
-https://streamable.com/ensskc
-
 
 Who?
 ---
